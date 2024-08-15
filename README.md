@@ -1,5 +1,7 @@
 # Industrial Copper Modeling
 
+Application Link: https://yab-copper-modeling.streamlit.app/
+
 ## Introduction
 
 The **Industrial Copper Modeling** project aims to predict both the selling price and transaction status (won or lost) in the industrial copper market using machine learning techniques. This involves exploring the dataset, performing data cleaning and preprocessing, and applying regression and classification algorithms to develop predictive models.
